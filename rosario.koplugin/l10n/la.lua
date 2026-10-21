@@ -1,0 +1,36 @@
+-- Latin UI strings of the rosario plugin (keys: see l10n/es.lua), in
+-- ecclesiastical Latin.
+return {
+    name = "Rosarium",
+    title = "Sanctum Rosarium",
+    restart = "Denuo incipere",
+    change_mysteries = "Mysteria mutare",
+    view_mystery = "Mysterium videre",
+    hide_text = "Textum celare",
+    show_text = "Textum ostendere",
+    language = "Lingua",
+    automatic = "Sicut in KOReader",
+    exit = "Exire",
+    today = "%s (hodie)",
+    end_hint = "Rosarium absolutum. Tange ut denuo incipias.",
+    card_hint = "Tange ut redeas.",
+    fruit = "Fructus mysterii: %s",
+    quote = "«%s»",
+    decade_number = "%d",
+    prayers = {
+        sign_of_cross = "Signum Crucis",
+        creed = "Credo",
+        our_father = "Pater Noster",
+        hail_mary = "Ave Maria",
+        glory_be = "Gloria Patri",
+        fatima = "Domine Iesu",
+        salve = "Salve Regina",
+    },
+    mysteries = {
+        "Mysterium primum",
+        "Mysterium secundum",
+        "Mysterium tertium",
+        "Mysterium quartum",
+        "Mysterium quintum",
+    },
+}

@@ -1,0 +1,6 @@
+# Local agent tooling (skill registry cache)
+.atl/
+
+# Python bytecode (tools/ and spec/)
+__pycache__/
+*.pyc
